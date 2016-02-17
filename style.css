@@ -1,0 +1,17 @@
+* {
+	box-sizing:border-box;
+}
+
+header li a{
+	padding: 5px 10px;
+	background: #fe7549;
+}
+header,
+main,
+footer {
+	width: 980px;
+	margin: 0 auto;
+}
+.main-menu li {
+	position: relative;
+}
